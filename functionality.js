@@ -1,5 +1,5 @@
 // operators precedence specifies priority of performing each type of
-// operation. larger value 
+// operation. larger value means calculated first
 const precedence = {
     "/": 2,
     "*": 2,
